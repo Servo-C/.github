@@ -1,5 +1,5 @@
 <h1 align="center">
-<p align="center">BADI</p>
+<p align="center"></p>
 
 
 ## Team C22-PS174 (Capstone Project Product Based)
@@ -13,6 +13,4 @@
 
   
   
-  ## What is BADI?
   
-  ###TBA
